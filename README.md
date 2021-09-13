@@ -1,1 +1,1 @@
-# AGH_myfilter1
+# AGH_myfilter
