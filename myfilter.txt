@@ -53,6 +53,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1porfot.com
 0.0.0.0 69-porno.org
 0.0.0.0 russkoe365.net
+0.0.0.0 pornokol.net
 
 
 
