@@ -62,5 +62,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 sosacdn.com
 0.0.0.0 sitewithg.com
 0.0.0.0 mybmrtrg.com
-0.0.0.0 samsungcloudsolution.com
-0.0.0.0 cdn.samsungcloudsolution.com
+#0.0.0.0 samsungcloudsolution.com
+#0.0.0.0 cdn.samsungcloudsolution.com
