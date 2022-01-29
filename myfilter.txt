@@ -64,5 +64,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 mybmrtrg.com
 0.0.0.0 sexdesant.com
 0.0.0.0 batsa.live
+||sexdesant.com^$important
+||ebalka.fun^$important
+||prostoporno.contact^
+||greasyfork.org^$important
+||code.jquery.com^$important
+||drtst.com^$important
+||batsa.live^$important
+||xnxx.com^$important
+||xnxx-cdn.com^$important
+||phncdn.com^$important
+||phprcdn.com^$important
+||jwpcdn.com^$important
+||cdnxe.com^$important
+||porno365.style^$important
 #0.0.0.0 samsungcloudsolution.com
 #0.0.0.0 cdn.samsungcloudsolution.com
+
