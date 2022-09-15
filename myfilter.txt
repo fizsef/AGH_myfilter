@@ -80,4 +80,5 @@ ff02::3 ip6-allhosts
 ||porno365.style^$important
 #0.0.0.0 samsungcloudsolution.com
 #0.0.0.0 cdn.samsungcloudsolution.com
-
+||dlx3.24v.tv^$important
+||24v.tv^$important
