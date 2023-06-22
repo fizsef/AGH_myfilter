@@ -89,3 +89,5 @@ ff02::3 ip6-allhosts
 ||cdn.247porno.one^$important
 ||cdn1.vids69.com^$important
 ||vids69.com^$important
+||vw.sslkn.name
+||sslkn.name
