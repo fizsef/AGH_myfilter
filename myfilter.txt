@@ -91,3 +91,8 @@ ff02::3 ip6-allhosts
 ||vids69.com^$important
 ||vw.sslkn.name
 ||sslkn.name
+||videofile.me^$important
+||mega.videofile.me
+||i.ytimg.com
+||v4.cdnde.com
+||cdnde.com^$important
