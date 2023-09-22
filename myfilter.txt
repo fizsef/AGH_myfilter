@@ -93,6 +93,5 @@ ff02::3 ip6-allhosts
 ||sslkn.name
 ||videofile.me^$important
 ||mega.videofile.me
-||i.ytimg.com
 ||v4.cdnde.com
 ||cdnde.com^$important
